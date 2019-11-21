@@ -1,0 +1,396 @@
+<?xml version="1.0"?>
+<Song102 xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Title>New Song</Title>
+  <TimeCode>Natural4</TimeCode>
+  <BeatsPerBar>4</BeatsPerBar>
+  <IsMetronomeAudible>false</IsMetronomeAudible>
+  <BeatsPerMinute>108</BeatsPerMinute>
+  <IsLoopingOn>true</IsLoopingOn>
+  <LoopStart>0</LoopStart>
+  <LoopEnd>386</LoopEnd>
+  <Samples>
+    <Sample>
+      <Id>5bd9ac8f-5705-4bda-91b2-488e888370aa</Id>
+      <Name>Acoustic Bass</Name>
+    </Sample>
+    <Sample>
+      <Id>0e498a6d-67ae-4454-aab8-516d3e7f988b</Id>
+      <Name>Natural</Name>
+    </Sample>
+    <Sample>
+      <Id>ee0f2793-a56c-4b78-bbdf-a8ef4771542a</Id>
+      <Name>Hi-Hat(Closed)</Name>
+    </Sample>
+    <Sample>
+      <Id>407bd67c-7131-4dfd-8e5e-abeef5b5d4f3</Id>
+      <Name>Tom (Paulo)</Name>
+    </Sample>
+    <Sample>
+      <Id>529c1a6d-cd70-4c2e-a095-10a21ac9d4f5</Id>
+      <Name>Stereo Snare</Name>
+    </Sample>
+    <Sample>
+      <Id>5bd9ac8f-5705-4bda-91b2-488e888370aa</Id>
+      <Name>Acoustic Bass</Name>
+    </Sample>
+    <Sample>
+      <Id>529c1a6d-cd70-4c2e-a095-10a21ac9d4f5</Id>
+      <Name>Stereo Snare</Name>
+    </Sample>
+    <Sample>
+      <Id>0e498a6d-67ae-4454-aab8-516d3e7f988b</Id>
+      <Name>Natural</Name>
+    </Sample>
+    <Sample>
+      <Id>407bd67c-7131-4dfd-8e5e-abeef5b5d4f3</Id>
+      <Name>Tom (Paulo)</Name>
+    </Sample>
+    <Sample>
+      <Id>ee0f2793-a56c-4b78-bbdf-a8ef4771542a</Id>
+      <Name>Hi-Hat(Closed)</Name>
+    </Sample>
+    <Sample>
+      <Id>5bd9ac8f-5705-4bda-91b2-488e888370aa</Id>
+      <Name>Acoustic Bass</Name>
+    </Sample>
+    <Sample>
+      <Id>407bd67c-7131-4dfd-8e5e-abeef5b5d4f3</Id>
+      <Name>Tom (Paulo)</Name>
+    </Sample>
+    <Sample>
+      <Id>529c1a6d-cd70-4c2e-a095-10a21ac9d4f5</Id>
+      <Name>Stereo Snare</Name>
+    </Sample>
+    <Sample>
+      <Id>0e498a6d-67ae-4454-aab8-516d3e7f988b</Id>
+      <Name>Natural</Name>
+    </Sample>
+    <Sample>
+      <Id>ee0f2793-a56c-4b78-bbdf-a8ef4771542a</Id>
+      <Name>Hi-Hat(Closed)</Name>
+    </Sample>
+    <Sample>
+      <Id>5bd9ac8f-5705-4bda-91b2-488e888370aa</Id>
+      <Name>Acoustic Bass</Name>
+    </Sample>
+    <Sample>
+      <Id>0e498a6d-67ae-4454-aab8-516d3e7f988b</Id>
+      <Name>Natural</Name>
+    </Sample>
+    <Sample>
+      <Id>407bd67c-7131-4dfd-8e5e-abeef5b5d4f3</Id>
+      <Name>Tom (Paulo)</Name>
+    </Sample>
+    <Sample>
+      <Id>529c1a6d-cd70-4c2e-a095-10a21ac9d4f5</Id>
+      <Name>Stereo Snare</Name>
+    </Sample>
+    <Sample>
+      <Id>ee0f2793-a56c-4b78-bbdf-a8ef4771542a</Id>
+      <Name>Hi-Hat(Closed)</Name>
+    </Sample>
+    <Sample>
+      <Id>0e498a6d-67ae-4454-aab8-516d3e7f988b</Id>
+      <Name>Natural</Name>
+    </Sample>
+    <Sample>
+      <Id>407bd67c-7131-4dfd-8e5e-abeef5b5d4f3</Id>
+      <Name>Tom (Paulo)</Name>
+    </Sample>
+    <Sample>
+      <Id>ee0f2793-a56c-4b78-bbdf-a8ef4771542a</Id>
+      <Name>Hi-Hat(Closed)</Name>
+    </Sample>
+    <Sample>
+      <Id>529c1a6d-cd70-4c2e-a095-10a21ac9d4f5</Id>
+      <Name>Stereo Snare</Name>
+    </Sample>
+    <Sample>
+      <Id>41b2ab0a-13e2-5bcc-e3b5-771aa9837a0e</Id>
+      <Name>Whip bass</Name>
+    </Sample>
+    <Sample>
+      <Id>09d6ccd1-2efd-480f-bb92-ad84f39da615</Id>
+      <Name>Electric</Name>
+    </Sample>
+    <Sample>
+      <Id>c9d69f97-335f-4438-9ecf-5edb0bcf4aca</Id>
+      <Name>Resonant Stereo</Name>
+    </Sample>
+    <Sample>
+      <Id>41b2ab0a-13e2-5bcc-e3b5-771aa9837a0e</Id>
+      <Name>Whip bass</Name>
+    </Sample>
+    <Sample>
+      <Id>09d6ccd1-2efd-480f-bb92-ad84f39da615</Id>
+      <Name>Electric</Name>
+    </Sample>
+    <Sample>
+      <Id>c9d69f97-335f-4438-9ecf-5edb0bcf4aca</Id>
+      <Name>Resonant Stereo</Name>
+    </Sample>
+    <Sample>
+      <Id>41b2ab0a-13e2-5bcc-e3b5-771aa9837a0e</Id>
+      <Name>Whip bass</Name>
+    </Sample>
+    <Sample>
+      <Id>09d6ccd1-2efd-480f-bb92-ad84f39da615</Id>
+      <Name>Electric</Name>
+    </Sample>
+    <Sample>
+      <Id>c9d69f97-335f-4438-9ecf-5edb0bcf4aca</Id>
+      <Name>Resonant Stereo</Name>
+    </Sample>
+  </Samples>
+  <Tracks>
+    <Track xsi:type="TrackForMastering">
+      <IsMuted>false</IsMuted>
+      <VolumeLimit>0</VolumeLimit>
+      <Balance>1</Balance>
+      <Effects />
+    </Track>
+    <Track xsi:type="TrackForVirtualInstrument">
+      <IsMuted>false</IsMuted>
+      <VolumeLimit>0</VolumeLimit>
+      <Balance>1</Balance>
+      <Effects />
+      <SampleId>41b2ab0a-13e2-5bcc-e3b5-771aa9837a0e</SampleId>
+      <IsPolyphonic>true</IsPolyphonic>
+      <PitchOffset>0</PitchOffset>
+      <InstrumentTitle>Whip bass</InstrumentTitle>
+      <InstrumentCategory>Bass</InstrumentCategory>
+      <IsSolo>false</IsSolo>
+      <Title>Track 3</Title>
+      <Sequences>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>46</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+      </Sequences>
+    </Track>
+    <Track xsi:type="TrackForVirtualInstrument">
+      <IsMuted>false</IsMuted>
+      <VolumeLimit>0</VolumeLimit>
+      <Balance>1</Balance>
+      <Effects />
+      <SampleId>09d6ccd1-2efd-480f-bb92-ad84f39da615</SampleId>
+      <IsPolyphonic>true</IsPolyphonic>
+      <PitchOffset>0</PitchOffset>
+      <InstrumentTitle>Electric</InstrumentTitle>
+      <IsSolo>false</IsSolo>
+      <Title>Track 3</Title>
+      <Sequences>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>8</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence 3</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>43</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>40</NoteNumber>
+              <Position>24</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>45</NoteNumber>
+              <Position>40</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence 3</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>43</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>40</NoteNumber>
+              <Position>24</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>45</NoteNumber>
+              <Position>40</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>81</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence 3</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>43</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>40</NoteNumber>
+              <Position>24</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>45</NoteNumber>
+              <Position>40</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence 3</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>43</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>40</NoteNumber>
+              <Position>24</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>45</NoteNumber>
+              <Position>40</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>81</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+      </Sequences>
+    </Track>
+    <Track xsi:type="TrackForVirtualInstrument">
+      <IsMuted>false</IsMuted>
+      <VolumeLimit>0</VolumeLimit>
+      <Balance>1</Balance>
+      <Effects />
+      <SampleId>c9d69f97-335f-4438-9ecf-5edb0bcf4aca</SampleId>
+      <IsPolyphonic>true</IsPolyphonic>
+      <PitchOffset>0</PitchOffset>
+      <InstrumentTitle>Resonant Stereo</InstrumentTitle>
+      <InstrumentCategory>Pads</InstrumentCategory>
+      <IsSolo>false</IsSolo>
+      <Title>Track 4</Title>
+      <Sequences>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>51</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+        <Sequence xsi:type="SequenceForVirtualInstrument">
+          <Length>64</Length>
+          <Title>Sequence</Title>
+          <Color>#FF448822</Color>
+          <SequenceEvents>
+            <VirtualInstrumentNoteEvent>
+              <Duration>63</Duration>
+              <NoteNumber>51</NoteNumber>
+              <Position>0</Position>
+              <VolumeLimit>0</VolumeLimit>
+            </VirtualInstrumentNoteEvent>
+          </SequenceEvents>
+        </Sequence>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+        <Sequence xsi:type="SequenceForBlank">
+          <Length>64</Length>
+          <Title>Blank</Title>
+          <Color>#00000000</Color>
+        </Sequence>
+      </Sequences>
+    </Track>
+  </Tracks>
+</Song102>
